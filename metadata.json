@@ -1,0 +1,6 @@
+{
+  "name": "Studio Aplikasi Guru",
+  "description": "Panduan interaktif membuat aplikasi guru sendiri dengan Gemini Canvas, Google Sheets, dan Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
